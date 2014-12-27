@@ -24,5 +24,6 @@
 <%
 	}
 %>
+<p><a href="logout.jsp">·Î±×¾Æ¿ô</a></p>
 </body>
 </html>

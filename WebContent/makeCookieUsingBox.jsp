@@ -16,5 +16,6 @@
 <body>
 	<h1>CookieBox를 사용하여 쿠키생성 완료!!</h1>
 	<p><a href="readCookieUsingBox.jsp">쿠키읽어오기</a></p>
+	<p><a href="member/loginForm.jsp">쿠키 이용 로그인</a></p>
 </body>
 </html>

@@ -28,4 +28,5 @@
 <%
 	}
 %>
+<p><a href="loginCheck.jsp">로그인 체크</a></p>
 </html>
